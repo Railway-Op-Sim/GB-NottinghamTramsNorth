@@ -4,7 +4,7 @@ This route is open to contributions from any developer.
 
 This route covers the Nottingham Tram Network, from The Forest stop, North to the terminii at Hucknall and Phoenix Park. The route also encapsulates National Rail between Wilkinson Street and Hucknall, allowing the player to attempt to manage the level crossings along this section.
 
-![Track Diagram](https://raw.githubusercontent.com/Railway-Op-Sim/UK-BarnhamArea/master/Images/BarnhamandFord.bmp)
+![Track Diagram](https://raw.githubusercontent.com/Railway-Op-Sim/UK-NottinghamTramsNorth/master/Images/NottinghamTramsNorth.png)
 
 ## Current Status
 
